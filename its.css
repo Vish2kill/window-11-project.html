@@ -1,0 +1,369 @@
+body {
+  background-image: url("windows-11.jfif");
+
+  background-size: cover;
+  height: fit-content;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  overflow: hidden;
+}
+
+#start {
+  position: absolute;
+  bottom: 7px;
+  left: 5px;
+  height: 30px;
+  overflow: hidden;
+}
+#start:hover {
+  background-color: rgb(154, 196, 251);
+}
+#start1 {
+  background-image: url("azadi-tower-gfc7a2de3f_1920.jpg");
+  z-index: +1;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 570px;
+  margin: 9px;
+  height: 580px;
+  position: absolute;
+  bottom: 80px;
+  overflow: hidden;
+}
+.star {
+  padding: 10px;
+  width: 68px;
+  height: 68px;
+}
+#start {
+  width: 27px;
+  position: absolute;
+  bottom: 1px;
+}
+
+#start:hover {
+  width: 30px;
+  background-color: rgb(24, 114, 233);
+}
+.star:hover {
+  width: 70px;
+  background-color: rgb(154, 196, 251);
+}
+#input {
+  position: absolute;
+  bottom: 5px;
+  left: 60px;
+  width: 300px;
+  height: 30px;
+
+  background-image: url("pexels-şeyma-betül-çalışkan-13113822.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: contain;
+  overflow: hidden;
+}
+
+.box {
+  background-color: #fff;
+
+  height: 45px;
+  position: relative;
+  bottom: -435px;
+  z-index: -1;
+}
+#myfiles {
+  color: #fff;
+}
+#files:hover {
+  background-color: aqua;
+  color: red;
+  width: 50px;
+  overflow: hidden;
+}
+#telegram {
+  color: #fff;
+}
+
+#telegram1:hover {
+  background-color: aqua;
+  width: 50px;
+  overflow: hidden;
+}
+#epic {
+  color: #fff;
+}
+#epic1 {
+  width: 48px;
+  height: 48px;
+}
+
+#epic1:hover {
+  background-color: aqua;
+  width: 60px;
+}
+.slide-top {
+  -webkit-animation: slide-top 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+  animation: slide-top 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+body {
+  margin: 0%;
+  padding: 0%;
+}
+.container {
+  font-family: "Arial", Helvetica, sans-serif;
+  padding: 30px;
+  color: black;
+  font-weight: bold;
+  position: absolute;
+  top: 97%;
+  right: 5%;
+  transform: translate(50%, -50%);
+  font-size: 15px;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.windowsec {
+  position: absolute;
+  top: 95.4%;
+  right: 9%;
+  width: 25px;
+  height: 25px;
+}
+.windowsec:hover {
+  background-color: aqua;
+}
+.bluetooth {
+  position: absolute;
+  top: 95.6%;
+  right: 11%;
+  width: 20px;
+  height: 20px;
+}
+.bluetooth:hover {
+  background-color: aqua;
+}
+.speaker {
+  position: absolute;
+  top: 95.6%;
+  right: 12.9%;
+  width: 20px;
+  height: 20px;
+}
+.speaker:hover {
+  background-color: aqua;
+}
+.wifi {
+  position: absolute;
+  top: 95.6%;
+  right: 14.9%;
+  width: 20px;
+  height: 20px;
+}
+.wifi:hover {
+  background-color: aqua;
+}
+
+.cloud {
+  position: absolute;
+  top: 95.3%;
+  right: 16.9%;
+  width: 25px;
+  height: 25px;
+}
+.cloud:hover {
+  background-color: aqua;
+}
+
+.battery {
+  position: absolute;
+  top: 95.3%;
+  right: 18.9%;
+  width: 25px;
+  height: 25px;
+}
+.battery:hover {
+  background-color: aqua;
+}
+.arrow {
+  position: absolute;
+  top: 95.3%;
+  right: 20.9%;
+  width: 25px;
+  height: 25px;
+}
+.arrow:hover {
+  background-color: aqua;
+}
+.people {
+  position: absolute;
+  top: 95.3%;
+  right: 22.9%;
+  width: 25px;
+  height: 25px;
+}
+.people:hover {
+  background-color: aqua;
+}
+.crow {
+  position: absolute;
+  top: 95.3%;
+  right: 34.9%;
+  width: 25px;
+  height: 25px;
+  border-bottom: 3px solid aqua;
+}
+.crow:hover {
+  background-color: aqua;
+}
+.blend {
+  position: absolute;
+  top: 95.3%;
+  right: 37.9%;
+  width: 25px;
+  height: 25px;
+}
+.blend:hover {
+  background-color: aqua;
+}
+.micro {
+  position: absolute;
+  top: 95.3%;
+  right: 40.9%;
+  width: 25px;
+  height: 25px;
+}
+.micro:hover {
+  background-color: aqua;
+}
+.virtualbox {
+  position: absolute;
+  top: 95.3%;
+  right: 43.9%;
+  width: 25px;
+  height: 25px;
+  border-bottom: 3px solid aqua;
+}
+.virtualbox:hover {
+  background-color: aqua;
+}
+.gta {
+  position: absolute;
+  top: 95.3%;
+  right: 46.9%;
+  width: 25px;
+  height: 25px;
+}
+.gta:hover {
+  background-color: aqua;
+}
+.gmail {
+  position: absolute;
+  top: 95.3%;
+  right: 49.9%;
+  width: 25px;
+  height: 25px;
+  border-bottom: 3px solid aqua;
+}
+.gmail:hover {
+  background-color: aqua;
+}
+.excel {
+  position: absolute;
+  top: 95.3%;
+  right: 52.9%;
+  width: 25px;
+  height: 25px;
+}
+.excel:hover {
+  background-color: aqua;
+}
+.office {
+  position: absolute;
+  top: 95.3%;
+  right: 55.9%;
+  width: 25px;
+  height: 25px;
+}
+.office:hover {
+  background-color: aqua;
+}
+.vs {
+  position: absolute;
+  top: 95.3%;
+  right: 58.9%;
+  width: 25px;
+  height: 25px;
+}
+.vs:hover {
+  background-color: aqua;
+}
+.wordpress {
+  position: absolute;
+  top: 95.3%;
+  right: 61.9%;
+  width: 25px;
+  height: 25px;
+}
+.wordpress:hover {
+  background-color: aqua;
+}
+.task {
+  position: absolute;
+  top: 95.3%;
+  right: 64.9%;
+  width: 25px;
+  height: 25px;
+}
+.task:hover {
+  background-color: aqua;
+}
+
+.task2 {
+  position: absolute;
+  top: 95.3%;
+  right: 67.9%;
+  width: 25px;
+  height: 25px;
+}
+.task2:hover {
+  background-color: aqua;
+}
+.task3 {
+  position: absolute;
+  top: 95.3%;
+  right: 70.9%;
+  width: 25px;
+  height: 25px;
+}
+.task3:hover {
+  background-color: aqua;
+}
+#vm {
+  color: #fff;
+  position: absolute;
+  top: 280px;
+}
+
+.vm:hover {
+  background-color: aqua;
+}
+#vm2 {
+  color: #fff;
+  position: absolute;
+  top: 360px;
+}
+
+.vm2:hover {
+  background-color: aqua;
+}
+#vm3 {
+  color: #fff;
+  position: absolute;
+  top: 440px;
+}
+
+.vm3:hover {
+  background-color: aqua;
+}
